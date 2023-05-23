@@ -1,0 +1,258 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders table data correctly 1`] = `
+<div>
+  <div
+    class="pusher"
+  >
+    <div
+      class="ui basic segment"
+    >
+      <div
+        class="ui middle aligned grid"
+      >
+        <div
+          class="left floated twelve wide column"
+        >
+          <div>
+            <div
+              aria-label="Pagination Navigation"
+              class="ui pagination menu"
+              role="navigation"
+            >
+              <a
+                aria-current="false"
+                aria-disabled="true"
+                class="disabled item"
+                tabindex="-1"
+                type="firstItem"
+                value="1"
+              >
+                «
+              </a>
+              <a
+                aria-current="false"
+                aria-disabled="true"
+                class="disabled icon item"
+                tabindex="-1"
+                type="prevItem"
+                value="1"
+              >
+                <i
+                  aria-hidden="true"
+                  class="chevron left icon"
+                />
+              </a>
+              <a
+                aria-current="true"
+                aria-disabled="false"
+                class="active item"
+                tabindex="0"
+                type="pageItem"
+                value="1"
+              >
+                1
+              </a>
+              <a
+                aria-current="false"
+                aria-disabled="true"
+                class="disabled icon item"
+                tabindex="-1"
+                type="nextItem"
+                value="1"
+              >
+                <i
+                  aria-hidden="true"
+                  class="chevron right icon"
+                />
+              </a>
+              <a
+                aria-current="false"
+                aria-disabled="true"
+                class="disabled item"
+                tabindex="-1"
+                type="lastItem"
+                value="1"
+              >
+                »
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="right aligned right floated four wide column"
+        >
+          <button
+            class="ui blue button"
+          >
+            新增
+          </button>
+          <button
+            class="ui teal button"
+          >
+            搜尋
+          </button>
+          <button
+            class="ui green button"
+          >
+            匯出
+          </button>
+        </div>
+      </div>
+      <table
+        class="ui celled striped table"
+      >
+        <thead
+          class=""
+        >
+          <tr
+            class="center aligned"
+          >
+            <th
+              class="one wide"
+            >
+              #
+            </th>
+            <th
+              class=""
+            >
+              使用者帳號
+            </th>
+            <th
+              class="three wide"
+            >
+              建立時間
+            </th>
+            <th
+              class="two wide"
+            >
+              啟用
+            </th>
+            <th
+              class="two wide"
+            >
+              鎖定
+            </th>
+            <th
+              class="three wide"
+            >
+              操作
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class=""
+        >
+          <tr
+            class=""
+          >
+            <td
+              class="center aligned"
+            >
+              1
+            </td>
+            <td
+              class=""
+            >
+              user1
+            </td>
+            <td
+              class=""
+            >
+              2019/11/20 8:53:26
+            </td>
+            <td
+              class="center aligned"
+            >
+              否
+            </td>
+            <td
+              class="center aligned"
+            >
+              否
+            </td>
+            <td
+              class="center aligned"
+            >
+              <button
+                class="ui green basic button"
+              >
+                編輯
+              </button>
+              <button
+                class="ui red basic button"
+              >
+                刪除
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div>
+        <div
+          aria-label="Pagination Navigation"
+          class="ui pagination menu"
+          role="navigation"
+        >
+          <a
+            aria-current="false"
+            aria-disabled="true"
+            class="disabled item"
+            tabindex="-1"
+            type="firstItem"
+            value="1"
+          >
+            «
+          </a>
+          <a
+            aria-current="false"
+            aria-disabled="true"
+            class="disabled icon item"
+            tabindex="-1"
+            type="prevItem"
+            value="1"
+          >
+            <i
+              aria-hidden="true"
+              class="chevron left icon"
+            />
+          </a>
+          <a
+            aria-current="true"
+            aria-disabled="false"
+            class="active item"
+            tabindex="0"
+            type="pageItem"
+            value="1"
+          >
+            1
+          </a>
+          <a
+            aria-current="false"
+            aria-disabled="true"
+            class="disabled icon item"
+            tabindex="-1"
+            type="nextItem"
+            value="1"
+          >
+            <i
+              aria-hidden="true"
+              class="chevron right icon"
+            />
+          </a>
+          <a
+            aria-current="false"
+            aria-disabled="true"
+            class="disabled item"
+            tabindex="-1"
+            type="lastItem"
+            value="1"
+          >
+            »
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,18 @@
+version: '3'
+services:
+  api:
+    build:
+      context: ../api/
+      dockerfile: Dockerfile
+    image: docker-api
+    container_name: docker-api
+    ports:
+      - "9988:9988"
+  test:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: docker-test
+    container_name: docker-test
+    ports:
+      - "3000:3000"

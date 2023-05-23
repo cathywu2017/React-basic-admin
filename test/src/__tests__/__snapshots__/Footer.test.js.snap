@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Footer correctly 1`] = `
+<div>
+  <div
+    class="ui inverted vertical segment"
+  >
+    <div
+      class="ui center aligned container"
+    >
+      <p>
+        ©中佑資訊有限公司
+      </p>
+    </div>
+  </div>
+</div>
+`;

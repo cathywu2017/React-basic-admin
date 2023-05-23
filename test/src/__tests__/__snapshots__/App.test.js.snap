@@ -1,0 +1,261 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App correctly 1`] = `
+<div>
+  <div
+    class="content"
+  >
+    <div
+      class="ui inverted menu"
+    >
+      <a
+        class="header item"
+      >
+        Header
+      </a>
+    </div>
+    <div
+      class="ui attached segment pushable"
+    >
+      <div
+        class="ui vertical ui left thin visible sidebar menu"
+      >
+        <a
+          class="item"
+        >
+          Home
+        </a>
+        <a
+          class="item"
+        >
+          Games
+        </a>
+        <a
+          class="item"
+        >
+          Channels
+        </a>
+      </div>
+      <div
+        class="pusher"
+      >
+        <div
+          class="ui basic segment"
+        >
+          <div
+            class="ui middle aligned grid"
+          >
+            <div
+              class="left floated twelve wide column"
+            >
+              <div>
+                <div
+                  aria-label="Pagination Navigation"
+                  class="ui pagination menu"
+                  role="navigation"
+                >
+                  <a
+                    aria-current="false"
+                    aria-disabled="true"
+                    class="disabled item"
+                    tabindex="-1"
+                    type="firstItem"
+                    value="1"
+                  >
+                    «
+                  </a>
+                  <a
+                    aria-current="false"
+                    aria-disabled="true"
+                    class="disabled icon item"
+                    tabindex="-1"
+                    type="prevItem"
+                    value="1"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="chevron left icon"
+                    />
+                  </a>
+                  <a
+                    aria-current="true"
+                    aria-disabled="false"
+                    class="active item"
+                    tabindex="0"
+                    type="pageItem"
+                    value="1"
+                  >
+                    1
+                  </a>
+                  <a
+                    aria-current="false"
+                    aria-disabled="true"
+                    class="disabled icon item"
+                    tabindex="-1"
+                    type="nextItem"
+                    value="1"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="chevron right icon"
+                    />
+                  </a>
+                  <a
+                    aria-current="false"
+                    aria-disabled="true"
+                    class="disabled item"
+                    tabindex="-1"
+                    type="lastItem"
+                    value="1"
+                  >
+                    »
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="right aligned right floated four wide column"
+            >
+              <button
+                class="ui blue button"
+              >
+                新增
+              </button>
+              <button
+                class="ui teal button"
+              >
+                搜尋
+              </button>
+              <button
+                class="ui green button"
+              >
+                匯出
+              </button>
+            </div>
+          </div>
+          <table
+            class="ui celled striped table"
+          >
+            <thead
+              class=""
+            >
+              <tr
+                class="center aligned"
+              >
+                <th
+                  class="one wide"
+                >
+                  #
+                </th>
+                <th
+                  class=""
+                >
+                  使用者帳號
+                </th>
+                <th
+                  class="three wide"
+                >
+                  建立時間
+                </th>
+                <th
+                  class="two wide"
+                >
+                  啟用
+                </th>
+                <th
+                  class="two wide"
+                >
+                  鎖定
+                </th>
+                <th
+                  class="three wide"
+                >
+                  操作
+                </th>
+              </tr>
+            </thead>
+            <tbody
+              class=""
+            />
+          </table>
+          <div>
+            <div
+              aria-label="Pagination Navigation"
+              class="ui pagination menu"
+              role="navigation"
+            >
+              <a
+                aria-current="false"
+                aria-disabled="true"
+                class="disabled item"
+                tabindex="-1"
+                type="firstItem"
+                value="1"
+              >
+                «
+              </a>
+              <a
+                aria-current="false"
+                aria-disabled="true"
+                class="disabled icon item"
+                tabindex="-1"
+                type="prevItem"
+                value="1"
+              >
+                <i
+                  aria-hidden="true"
+                  class="chevron left icon"
+                />
+              </a>
+              <a
+                aria-current="true"
+                aria-disabled="false"
+                class="active item"
+                tabindex="0"
+                type="pageItem"
+                value="1"
+              >
+                1
+              </a>
+              <a
+                aria-current="false"
+                aria-disabled="true"
+                class="disabled icon item"
+                tabindex="-1"
+                type="nextItem"
+                value="1"
+              >
+                <i
+                  aria-hidden="true"
+                  class="chevron right icon"
+                />
+              </a>
+              <a
+                aria-current="false"
+                aria-disabled="true"
+                class="disabled item"
+                tabindex="-1"
+                type="lastItem"
+                value="1"
+              >
+                »
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ui inverted vertical segment"
+    >
+      <div
+        class="ui center aligned container"
+      >
+        <p>
+          ©中佑資訊有限公司
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

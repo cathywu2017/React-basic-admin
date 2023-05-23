@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Microsoft JhengHei', Arial, Helvetica, sans-serif;
+}
+
+#root {
+  height: 100%;
+}
+
+.content {
+  height: 100%;
+}
+
+.ui.menu {
+  border-radius: 0;
+}
+
+.ui.menu:first-child {
+  margin: 0;
+}
+
+.ui[class*="attached"].segment {
+  margin-top: 0rem;
+  border: 0;
+  border-radius: 0;
+}
+
+.pushable {
+  height: calc(100% - 6.2rem);
+}
+
+.pushable>.pusher {
+  width: calc(100% - 150px);
+  border-left: 1px solid #f9f9f9;
+}
+
+.ui.left.visible.sidebar {
+  box-shadow: none;
+  border: 0;
+}
+
+.ui.button {
+  font-family: 'Microsoft JhengHei', Arial, Helvetica, sans-serif;
+}
+
+.ui.modal {
+  width: 500px;
+}
+
+.green.text {
+  color: #16ab39;
+}
