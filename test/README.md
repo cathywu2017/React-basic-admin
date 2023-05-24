@@ -1,14 +1,15 @@
 # my-app
 
-使用 React.js 練習切出一個簡易後台<br>
-包含新增、修改、刪除等功能
+使用 React.js 開發簡易後台<br>
+包含新增、修改、刪除等功能<br>
+Jest 執行單元測試, 驗證結果適合符合預期<br><br><br>
 
 ## 環境安裝及執行
 
 - 安裝模組
 
 ```
-  npm install 
+  npm install
 ```
 
 - 啟動專案
@@ -17,6 +18,7 @@
   npm start
 ```
 
+<br><br>
 
 ## 編譯打包
 
