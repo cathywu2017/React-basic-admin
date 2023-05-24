@@ -1,39 +1,12 @@
 # my-app
 
-使用 React.js 練習切出一個首頁
+使用 React.js 練習切出一個簡易後台
+包含新增、修改、刪除等功能
 
 ## 環境安裝及執行
 
-- 請先安裝 Node.js and npm
-- 開啟檔案執行 npm start
-
-## 建立 React 應用程式
-
-```
-    npx create-react-app my-app
-    cd my-app
-    npm start
-```
-
-## 加入第三方套件
-
-使用 Semantic UI React
-
-```
-    npm install semantic-ui-react
-
-    在 js 中引入，例如：
-    import { Button } from 'semantic-ui-react'
-    <Button></Button>
-```
-
-
-```
-    npm install semantic-ui-css
-
-    在檔案內引入
-    import 'semantic-ui-css/semantic.min.css'
-```
+- npm install 安裝模組
+- npm start 啟動專案
 
 ## 創建React應用
 
