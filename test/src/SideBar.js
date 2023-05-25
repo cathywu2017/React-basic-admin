@@ -5,8 +5,8 @@ function SideBar() {
   return (
     <Sidebar as={Menu} vertical visible width="thin">
       <Menu.Item as="a" content="Home" />
-      <Menu.Item as="a" content="Games" />
-      <Menu.Item as="a" content="Channels" />
+      {/* <Menu.Item as="a" content="Games" />
+      <Menu.Item as="a" content="Channels" /> */}
     </Sidebar>
   );
 }

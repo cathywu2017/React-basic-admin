@@ -5,7 +5,7 @@ function Footer() {
   return (
     <Segment inverted vertical>
       <Container textAlign="center">
-        <p>©中佑資訊有限公司</p>
+        <p>© React basic admin</p>
       </Container>
     </Segment>
   );
